@@ -1,0 +1,8 @@
+### Object property: containsToponym
+:containsToponym rdf:type owl:ObjectProperty ;
+                 rdfs:domain :PersonName ;
+                 rdfs:range xsd:string ;
+                 rdfs:label "bevat toponiem"@nl ,
+                            "contains toponym"@en ;
+                 rdfs:comment "Verwijst naar een geografische plaats (toponiem) die voorkomt in de persoonsnaam, zoals in 'van Bengalen' of 'de Paris'."@nl ,
+                              "Refers to a geographic place (toponym) that is included in the person name, as in 'van Bengalen' or 'de Paris'."@en  .

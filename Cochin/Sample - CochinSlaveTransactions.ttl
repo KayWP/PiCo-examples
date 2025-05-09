@@ -1,0 +1,57 @@
+@prefix globalise: <https://globalise.huygens.knaw.nl/example/> .
+@prefix hdsc: <https://www.ru.nl/hdsc/example/> .
+@prefix ns1: <ed:> .
+@prefix pico: <https://personsincontext.org/model#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sdo: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+#sources
+<COCHIN_SOURCE-1034-164> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1776"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationaalarchief.nl/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_299"^^xsd:string ;
+    sdo:name "‘Nederlandse bezittingen in India: Digitale Duplicaten van Archieven aanwezig in de Tamil Nadu, archive number 1.11.06.11, inventory number 1034, scan 164"^^xsd:string ;
+    sdo:url <https://www.example.nl/1034-164> .
+
+#enslaved
+globalise:Cochin_per_enslaved5609 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <COCHIN_SOURCE-1034-164> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1776-03-29"^^xsd:date ;
+    sdo:gender sdo:Male ;
+    sdo:name "Aijapen",
+        "Julij" ;
+    hdsc:hasSocialIdentity "Poelia" ;
+    hdsc:isEnslavedBy [ rdf:value globalise:Cochin_per_v5609 ;
+            sdo:endDate "1776-03-29"^^xsd:date ],
+        [ rdf:value globalise:Cochin_per_k5609 ;
+            sdo:startDate "1776-03-29"^^xsd:date ] .
+
+#enslavers
+globalise:Cochin_per_k5609 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <COCHIN_SOURCE-1034-167> ;
+    sdo:dateCreated "1776-03-30"^^xsd:date ;
+    sdo:gender sdo:Male ;
+    sdo:hasOccupation <https://digitaalerfgoed.poolparty.biz/globalise/80219559-083b-4ce7-8a6a-2414db3eeb74> ;
+    sdo:name "Christiaan Waller" ;
+    hdsc:isEnslaverOf [ rdf:value globalise:Cochin_per_enslaved5609 ;
+            sdo:startDate "1776-03-30"^^xsd:date ] .
+
+globalise:Cochin_per_v5609 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <COCHIN_SOURCE-1082-90> ;
+    sdo:dateCreated "1778-05-08"^^xsd:date ;
+    sdo:gender sdo:Male ;
+    sdo:name "Manoel Lopes" ;
+    hdsc:hasSocialIdentity "Toepas" ;
+    hdsc:isEnslaverOf [ rdf:value globalise:Cochin_per_enslaved5609 ;
+            sdo:endDate "1778-05-08"^^xsd:date ] .
+
+#reconstructions
+globalise:reconstruction19704 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:Cochin_per_enslaved5609 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/VZET2HA6> .

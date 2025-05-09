@@ -1,0 +1,85 @@
+@prefix ed: <http://lod.enslaved.org/entity/> .
+@prefix globalise: <https://globalise.huygens.knaw.nl/example/> .
+@prefix hdsc: <https://www.ru.nl/hdsc/example/> .
+@prefix ns1: <ed:> .
+@prefix pico: <https://personsincontext.org/model#> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sdo: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+globalise:reconstruction2 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC8139 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction3 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC8140 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction4 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC8141 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction5 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC8142 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:name_TEPC_MOOC8139 a pnv:PersonName ;
+    sdo:name "Jan Dirksz: de Beer" .
+
+globalise:name_TEPC_MOOC8140 a pnv:PersonName ;
+    sdo:name "Anna van Veldhuijsen" .
+
+globalise:name_TEPC_MOOC8141 a pnv:PersonName ;
+    sdo:name "Antonij Moor van Japare" ;
+    pnv:containsToponym "Japara" .
+
+globalise:name_TEPC_MOOC8142 a pnv:PersonName ;
+    sdo:name "Antonij Doov van Mallabaar" ;
+    pnv:containsToponym "Malabar" .
+
+globalise:TEPC_MOOC8141 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.63> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1701-03-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC8141 ;
+    hdsc:isEnslavedBy [ rdf:value globalise:TEPC_MOOC8140 ],
+        [ rdf:value globalise:TEPC_MOOC8139 ] .
+
+globalise:TEPC_MOOC8142 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.63> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1701-03-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC8142 ;
+    hdsc:isEnslavedBy [ rdf:value globalise:TEPC_MOOC8140 ],
+        [ rdf:value globalise:TEPC_MOOC8139 ] .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.63> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1701"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.63"^^xsd:string .
+
+globalise:TEPC_MOOC8139 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.63> ;
+    sdo:dateCreated "1701-03-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC8139 ;
+    hdsc:isEnslaverOf [ rdf:value globalise:TEPC_MOOC8142 ],
+        [ rdf:value globalise:TEPC_MOOC8141 ] .
+
+globalise:TEPC_MOOC8140 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.63> ;
+    sdo:dateCreated "1701-03-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC8140 ;
+    hdsc:isEnslaverOf [ rdf:value globalise:TEPC_MOOC8141 ],
+        [ rdf:value globalise:TEPC_MOOC8142 ] .
+
+[] rdf:value globalise:TEPC_MOOC8139 .
+
+[] rdf:value globalise:TEPC_MOOC8140 .
+
