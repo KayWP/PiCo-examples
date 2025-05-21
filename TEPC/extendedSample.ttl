@@ -1,0 +1,550 @@
+@prefix ed: <http://lod.enslaved.org/entity/> .
+@prefix globalise: <https://globalise.huygens.knaw.nl/example/> .
+@prefix hdsc: <https://www.ru.nl/hdsc/example/> .
+@prefix ns1: <ed:> .
+@prefix pico: <https://personsincontext.org/model#> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sdo: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+globalise:reconstruction10 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC813 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction11 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC814 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction12 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC816 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction13 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC817 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction14 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC818 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction15 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC820 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction16 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC821 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction17 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC822 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction18 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC823 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction19 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC827 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction2 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC81 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction20 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC829 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction21 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC831 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction22 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC832 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction23 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC833 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction24 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC834 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction25 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC835 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction26 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC839 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction27 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC840 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction28 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC842 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction29 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC843 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction3 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC82 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction30 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC845 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction31 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC846 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction4 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC86 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction5 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC87 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction6 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC88 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction7 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC89 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction8 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC810 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+globalise:reconstruction9 a pico:PersonReconstruction ;
+    prov:wasDerivedFrom globalise:TEPC_MOOC812 ;
+    prov:wasGeneratedBy <https://www.zotero.org/groups/4678659/items/H433UPW7> .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.1> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1673"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.1"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.10> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1694"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.10"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.11> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1694"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.11"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.12> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1695"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.12"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.15> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1695"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.15"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.17> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1696"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.17"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.18> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1696"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.18"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.19> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1696"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.19"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.2> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1685"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.2"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.20> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1696"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.20"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.3> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1692"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.3"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.5> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1688"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.5"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.6> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1693"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.6"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.7> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1693"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.7"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1_no-number-01> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1691"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1_no-number-01"^^xsd:string .
+
+globalise:TEPC_MOOC81 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.1> ;
+    sdo:dateCreated "1673-10-20"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC81 .
+
+globalise:TEPC_MOOC810 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.5> ;
+    sdo:dateCreated "1688-01-19"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC810 .
+
+globalise:TEPC_MOOC812 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1_no-number-01> ;
+    sdo:dateCreated "1691-06-16"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC812 .
+
+globalise:TEPC_MOOC813 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.6> ;
+    sdo:dateCreated "1693-10-25"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC813 .
+
+globalise:TEPC_MOOC814 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.7> ;
+    sdo:dateCreated "1693-11-05"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC814 .
+
+globalise:TEPC_MOOC816 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.8> ;
+    sdo:dateCreated "1693-07-03"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC816 ;
+    hdsc:isEnslaverOf [ rdf:value globalise:TEPC_MOOC820 ],
+        [ rdf:value globalise:TEPC_MOOC817 ],
+        [ rdf:value globalise:TEPC_MOOC818 ] .
+
+globalise:TEPC_MOOC82 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.2> ;
+    sdo:dateCreated "1685-08-29"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC82 .
+
+globalise:TEPC_MOOC823 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.10> ;
+    sdo:dateCreated "1694-03-12"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC823 .
+
+globalise:TEPC_MOOC827 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.11> ;
+    sdo:dateCreated "1694-12-21"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC827 .
+
+globalise:TEPC_MOOC829 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.12> ;
+    sdo:dateCreated "1695-03-10"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC829 .
+
+globalise:TEPC_MOOC831 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.13> ;
+    sdo:dateCreated "1695-07-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC831 ;
+    hdsc:isEnslaverOf [ rdf:value globalise:TEPC_MOOC832 ] .
+
+globalise:TEPC_MOOC833 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.14> ;
+    sdo:dateCreated "1695-09-28"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC833 ;
+    hdsc:isEnslaverOf [ rdf:value globalise:TEPC_MOOC834 ] .
+
+globalise:TEPC_MOOC835 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.15> ;
+    sdo:dateCreated "1695-12-06"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC835 .
+
+globalise:TEPC_MOOC839 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.16> ;
+    sdo:dateCreated "1696-09-26"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC839 ;
+    hdsc:isEnslaverOf [ rdf:value globalise:TEPC_MOOC840 ] .
+
+globalise:TEPC_MOOC842 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.17> ;
+    sdo:dateCreated "1696-10-11"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC842 .
+
+globalise:TEPC_MOOC843 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.18> ;
+    sdo:dateCreated "1696-10-12"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC843 .
+
+globalise:TEPC_MOOC845 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.19> ;
+    sdo:dateCreated "1696-11-22"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC845 .
+
+globalise:TEPC_MOOC846 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.20> ;
+    sdo:dateCreated "1696-12-15"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC846 .
+
+globalise:TEPC_MOOC86 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.3> ;
+    sdo:dateCreated "1692-08-19"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC86 .
+
+globalise:TEPC_MOOC87 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.4> ;
+    sdo:dateCreated "1692-07-10"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC87 ;
+    hdsc:isEnslaverOf [ rdf:value globalise:TEPC_MOOC88 ],
+        [ rdf:value globalise:TEPC_MOOC89 ] .
+
+globalise:name_TEPC_MOOC81 a pnv:PersonName ;
+    sdo:name "Francois Chamfelaer" .
+
+globalise:name_TEPC_MOOC810 a pnv:PersonName ;
+    sdo:name "Simon Groot" .
+
+globalise:name_TEPC_MOOC812 a pnv:PersonName ;
+    sdo:name "Catharina Hoffers" .
+
+globalise:name_TEPC_MOOC813 a pnv:PersonName ;
+    sdo:name "Jan van den Bosch" .
+
+globalise:name_TEPC_MOOC814 a pnv:PersonName ;
+    sdo:name "Catharijn Steens" .
+
+globalise:name_TEPC_MOOC816 a pnv:PersonName ;
+    sdo:name "Jan Hendrik Blum" .
+
+globalise:name_TEPC_MOOC817 a pnv:PersonName ;
+    sdo:name "Rachel" .
+
+globalise:name_TEPC_MOOC818 a pnv:PersonName ;
+    sdo:name "Martha" .
+
+globalise:name_TEPC_MOOC82 a pnv:PersonName ;
+    sdo:name "Albert Diemer" .
+
+globalise:name_TEPC_MOOC820 a pnv:PersonName ;
+    sdo:name "Pieter" .
+
+globalise:name_TEPC_MOOC821 a pnv:PersonName ;
+    sdo:name "Willem L: Wiederhold" .
+
+globalise:name_TEPC_MOOC822 a pnv:PersonName ;
+    sdo:name "Jan Wittebol" .
+
+globalise:name_TEPC_MOOC823 a pnv:PersonName ;
+    sdo:name "Jan Pietertsz: Louw" .
+
+globalise:name_TEPC_MOOC827 a pnv:PersonName ;
+    sdo:name "Hendrik Gysbertsz Verschuur" .
+
+globalise:name_TEPC_MOOC829 a pnv:PersonName ;
+    sdo:name "Trijntjen Hillebrants" .
+
+globalise:name_TEPC_MOOC831 a pnv:PersonName ;
+    sdo:name "Poul Maron" .
+
+globalise:name_TEPC_MOOC832 a pnv:PersonName ;
+    sdo:name "Isaac van Macasser" ;
+    pnv:containsToponym "Makassar" .
+
+globalise:name_TEPC_MOOC833 a pnv:PersonName ;
+    sdo:name "Ditloff Bibout" .
+
+globalise:name_TEPC_MOOC834 a pnv:PersonName ;
+    sdo:name "Lijsbeth" .
+
+globalise:name_TEPC_MOOC835 a pnv:PersonName ;
+    sdo:name "Roelof Pasman" .
+
+globalise:name_TEPC_MOOC839 a pnv:PersonName ;
+    sdo:name "Antonij van Angole" .
+
+globalise:name_TEPC_MOOC840 a pnv:PersonName ;
+    sdo:name "Sussanna" .
+
+globalise:name_TEPC_MOOC842 a pnv:PersonName ;
+    sdo:name "Sussanna Jacobsz:" .
+
+globalise:name_TEPC_MOOC843 a pnv:PersonName ;
+    sdo:name "Hendrik Elbertsz:" .
+
+globalise:name_TEPC_MOOC845 a pnv:PersonName ;
+    sdo:name "Hercules du Préé" .
+
+globalise:name_TEPC_MOOC846 a pnv:PersonName ;
+    sdo:name "Andries de Man" .
+
+globalise:name_TEPC_MOOC86 a pnv:PersonName ;
+    sdo:name "Hendrick Eechof" .
+
+globalise:name_TEPC_MOOC87 a pnv:PersonName ;
+    sdo:name "Joost Lons" .
+
+globalise:name_TEPC_MOOC88 a pnv:PersonName ;
+    sdo:name "Marij van Macasser" ;
+    pnv:containsToponym "Makassar" .
+
+globalise:name_TEPC_MOOC89 a pnv:PersonName ;
+    sdo:name "Antonij van Malabaer" ;
+    pnv:containsToponym "Malabar" .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.13> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1695"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.13"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.14> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1695"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.14"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.16> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1696"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.16"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.9> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1692"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.9"^^xsd:string .
+
+globalise:TEPC_MOOC817 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.8> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1693-07-03"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC817 .
+
+globalise:TEPC_MOOC818 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.8> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1693-07-03"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC818 .
+
+globalise:TEPC_MOOC820 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.8> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1693-07-03"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC820 .
+
+globalise:TEPC_MOOC821 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.9> ;
+    sdo:dateCreated "1692-04-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC821 .
+
+globalise:TEPC_MOOC822 a pico:PersonObservation ;
+    ns1:P33 <https://digitaalerfgoed.poolparty.biz/globalise/3b2c7dba-9892-4c43-ac37-227ca22310c0> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.9> ;
+    sdo:dateCreated "1692-04-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC822 .
+
+globalise:TEPC_MOOC832 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.13> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1695-07-01"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC832 .
+
+globalise:TEPC_MOOC834 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.14> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1695-09-28"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC834 .
+
+globalise:TEPC_MOOC840 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.16> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1696-09-26"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC840 .
+
+globalise:TEPC_MOOC88 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.4> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1692-07-10"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC88 .
+
+globalise:TEPC_MOOC89 a pico:PersonObservation ;
+    ed:P33 <https://digitaalerfgoed.poolparty.biz/globalise/2e3b9397-4638-4cd0-b0f1-3670b82b2186> ;
+    prov:hadPrimarySource <http://example.org/source/TEPC_SOURCE-MOOC8/1.4> ;
+    pico:hasRole <https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/67> ;
+    sdo:dateCreated "1692-07-10"^^xsd:date ;
+    pnv:hasName globalise:name_TEPC_MOOC89 .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.4> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1692"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.4"^^xsd:string .
+
+<http://example.org/source/TEPC_SOURCE-MOOC8/1.8> a sdo:ArchiveComponent ;
+    sdo:dateCreated "1693"^^xsd:gYear ;
+    sdo:holdingArchive <https://www.nationalarchives.gov.za/> ;
+    sdo:locationCreated "https://globalise.huygens.knaw.nl/example/GLOB_479"^^xsd:string ;
+    sdo:name "‘Inventories of the Orphan Chamber at the Cape of Good Hope MOOC8/1.8"^^xsd:string .
+
+[] rdf:value globalise:TEPC_MOOC822 .
+
+[] rdf:value globalise:TEPC_MOOC821 .
+
